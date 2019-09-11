@@ -1,0 +1,17 @@
+{
+    "name": "burakbolat/fizzbuzz",
+    "require": {
+        "phpspec/phpspec": "^5.1"
+    },
+    "authors": [
+        {
+            "name": "Burak Bolat",
+            "email": "burak.bolat@metglobal.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Acme\\": "src"
+        }
+    }
+}
